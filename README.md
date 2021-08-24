@@ -13,7 +13,7 @@ This is E-Commerce project, fetching data from Fack Store API. It displays all p
 #### Deployed
 
 * [netlify](https://app.netlify.com/)
-* 
+* https://e-commerce-with-angular.netlify.app/products
 
 <hr/>
 
