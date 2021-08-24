@@ -1,6 +1,6 @@
 # E-Commerce-with-Angular
 
-This is E-Commerce project, fetching data from Fack Store API. It displays all products from API. Was build with 
+This is E-Commerce project, fetching data from Fack Store API. It displays all products from API. 
 * [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 * HTML
 * SCSS
