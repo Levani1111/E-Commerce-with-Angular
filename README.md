@@ -1,6 +1,15 @@
-# ECommerce
+# E-Commerce-with-Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+This is E-Commerce project, fetching data from Fack Store API. It displays all products from API. Was build with 
+* [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+* HTML
+* SCSS
+* Bootstrap 5
+* Fontawesome
+* Typescript
+* JavaScript
+* Fack Store API 
+
 
 ## Development server
 
@@ -22,6 +31,11 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+#### Deployed
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* [netlify](https://app.netlify.com/)
+* 
+
+<hr/>
+
+###### Created by Levani Papashvili @2021
